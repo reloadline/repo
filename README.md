@@ -17,7 +17,14 @@ Add it in a package manager:
 ## Add packages
 
 1. Put your `.deb` files in `debs/`.
-2. Run `scripts/build-index.sh`, or let the included GitHub Action rebuild the indexes.
-3. Commit and push the updated files.
+2. Rebuild the package indexes:
+
+   ```sh
+   dpkg-scanpackages -m debs /dev/null > Packages
+   gzip -n -c Packages > Packages.gz
+   bzip2 -c Packages > Packages.bz2
+   ```
+
+3. Update `Release` checksums, then commit and push or upload the changed files.
 
 Only publish packages you own or have permission to redistribute. Do not use this repo for cracked apps, malware, or unauthorized content.
