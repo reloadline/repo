@@ -1,0 +1,19 @@
+Package: aweme.x
+Section: Tweaks
+Installed-Size: 11908
+Maintainer: 𝙓
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Replaces: com.xx.dyhook
+Depends: mobilesubstrate (>= 0.9.5000)
+Pre-Depends: rootless-compat (>= 0.9)
+Conflicts: com.xx.dyhook
+Description: 自用
+Name: 抖音图层
+Author: 𝙓
+Filename: ./抖音图层_2.6.2_iphoneos-arm64e.deb
+Size: 7160524
+MD5sum: 0abb72048b9c9f91a22e286c7353715b
+SHA1: ac9c1d25f64bcccf21f1547c5642414e34f02ece
+SHA256: 1f1f91f930b6bda6d09f1ba7496da48ed306b47c3c7599d4a4b1c4026928dfa0
+
