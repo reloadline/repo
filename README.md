@@ -1,18 +1,18 @@
-# ios-jailbreak-source
+# repo
 
 Personal iOS jailbreak APT repository hosted with GitHub Pages.
 
 Repo URL after GitHub Pages is enabled:
 
 ```text
-https://reloadline.github.io/ios-jailbreak-source/
+https://reloadline.github.io/repo/
 ```
 
 Add it in a package manager:
 
-- Sileo: `sileo://source/https://reloadline.github.io/ios-jailbreak-source/`
-- Zebra: `zbra://sources/add/https://reloadline.github.io/ios-jailbreak-source/`
-- Cydia: `cydia://url/https://cydia.saurik.com/api/share#?source=https://reloadline.github.io/ios-jailbreak-source/`
+- Sileo: `sileo://source/https://reloadline.github.io/repo/`
+- Zebra: `zbra://sources/add/https://reloadline.github.io/repo/`
+- Cydia: `cydia://url/https://cydia.saurik.com/api/share#?source=https://reloadline.github.io/repo/`
 
 ## Add packages
 
