@@ -1,3 +1,279 @@
+Package: com.den.igformat
+Section: Tweaks
+Installed-Size: 2660
+Maintainer: MrDeNsor
+Architecture: iphoneos-arm64e
+Version: 2.4.0-1+debug
+Depends: mobilesubstrate (>= 0.9.5000)
+Pre-Depends: rootless-compat (>= 0.9)
+Description: Powerful Instagram Tweak
+Name: IGFormat
+Author: MrDeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
+Filename: ./插件/IGFormat_2.4.0-1+debug_iphoneos-arm64e.deb
+Size: 400924
+MD5sum: 0c25c1f76f08b58e2bbfb55d3c6a7ce4
+SHA1: 410109fc18f665ca70f3029091dc8e6b22dc0c2a
+SHA256: de4201a618da6b4df34e3da7a9a3bd3035e93792387033f4dbb980c750990fef
+
+Package: com.mrgcgamer.libgcuniversal
+Section: Development
+Installed-Size: 380
+Maintainer: MrGcGamer
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Pre-Depends: rootless-compat (>= 0.9)
+Description: An awesome library of some sort!!
+Name: LibGcUniversal
+Author: MrGcGamer
+Tag: role::developer
+Filename: ./插件/LibGcUniversal_1.7.0_iphoneos-arm64e.deb
+Size: 55388
+MD5sum: 4533757b7734c56fa520904a0bccd393
+SHA1: 4256fb50eb8431b8e88ee9bc67f702f979e07861
+SHA256: c3eadd7dbca87c48f781c68373e9e93961900638f343d676d10fd149e6c26969
+
+Package: com.doimty.promotion
+Section: Tweaks
+Installed-Size: 108
+Maintainer: doimty
+Architecture: iphoneos-arm64e
+Version: 1.0.11
+Depends: mobilesubstrate
+Description: Force global 120Hz ProMotion, bypass the 80Hz system cap. iPhone 13 Pro and above only.
+Name: ProMotion 120Hz
+Author: doimty
+Tag: supports::roothide
+Filename: ./插件/ProMotion 120Hz_1.0.11_iphoneos-arm64e.deb
+Size: 16720
+MD5sum: f8e7ccdf96d18f566cadcbf7d4788b41
+SHA1: c2e3f94055d13f1764bb07a067bc4ef3929f1311
+SHA256: 8b30e66ebf7277016fb23cf7d2c95fed35f6cdea6cf29af3ecfcc4619536e56b
+
+Package: com.hk.settingsrevamp.cn.rl
+Section: 嗨-汉化
+Maintainer: 妖刀
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Depends: mobilesubstrate
+Description: SettingsRevamp 简体中文包(RootHide)。
+Name: SettingsRevamp 简体中文包(RootHide)
+Author: 妖刀
+Filename: ./插件/SettingsRevamp 简体中文包(RootHide)_3.0.1_iphoneos-arm64e.deb
+Size: 8632
+MD5sum: 6c9b593693f8168fb0fece2dbccd4bab
+SHA1: 6bd3924b3358654d3e6475fb286210a52a363b99
+SHA256: f88e9ecca2bd2a688b3d8d457a3cf3090d8cc6010de319f5a3388d9fa54530f2
+
+Package: com.dao.tgextra
+Section: 嗨-工具
+Maintainer: choco/waruhachi/TheWinner02/thewinner0217/daodao
+Architecture: iphoneos-arm64e
+Version: 1.3-3
+Conflicts: com.choco.tg
+Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按（建议在“设置”页面）手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
+Name: TGExtraFE(RootHide)
+Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
+Filename: ./插件/TGExtraFE(RootHide)_1.3-3_iphoneos-arm64e.deb
+Size: 6123920
+MD5sum: 731b2a39672cb313b96abdf9ce34686b
+SHA1: 5374acbc1c1d810b011e14ba04edafe2d0742721
+SHA256: b9353fca1993e17984291c7a78be581a731b03a691f996b08b5403ac359c8fc7
+
+Package: com.den.twigalaxy
+Section: Tweaks
+Installed-Size: 1836
+Maintainer: DeNsor
+Architecture: iphoneos-arm64e
+Version: 1.14-1+debug
+Depends: mobilesubstrate (>= 0.9.5000)
+Pre-Depends: rootless-compat (>= 0.9)
+Description: Make Twitter Better!
+Name: TWIGalaxy
+Author: DeNsor
+Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
+Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
+Filename: ./插件/TWIGalaxy_1.14-1+debug_iphoneos-arm64e.deb
+Size: 280604
+MD5sum: 539b13fa6cc92dd7a0349ae085e3698c
+SHA1: 89ffa9979dd12a1a54f5dce9bc2c1160aa6f46d6
+SHA256: f3ee9285bc16c0100b8db6428454ed8134f65604af5cd1753c537c813f7427b9
+
+Package: com.dao.ytkace
+Section: 嗨-工具
+Installed-Size: 2644
+Maintainer: daodao
+Architecture: iphoneos-arm64e
+Version: 0.8.4
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+Filename: ./插件/YTKACE(RootHide)_0.8.4_iphoneos-arm64e.deb
+Size: 803572
+MD5sum: b35446e4130e2c7bd923691404a99935
+SHA1: 1c3000f1f49f8c62540c56822fae0badc688f487
+SHA256: f36a9dd6a718298f3dd8bdd58f5ef440b92a6dfa7a9dcc630539d6b291e8cb52
+
+Package: com.dao.youtubereborn
+Section: 嗨-工具
+Installed-Size: 24876
+Maintainer: arichornlover & 妖刀
+Architecture: iphoneos-arm64e
+Version: 4.2.6-2
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
+Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
+Name: YTR 中文版(RootHide)
+Author: Lillie & arichornlover
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
+Filename: ./插件/YTR 中文版(RootHide)_4.2.6-2_iphoneos-arm64e.deb
+Size: 9098988
+MD5sum: 989ed10a942b4e26c9588cb777a80a70
+SHA1: f4ffaeb5fabdcb866c3bbce6e7df06df9cde8d81
+SHA256: a94d3d1202eec33e2d7903dc5e7ca81cf9bff0b3aa00c0de30f7d5cf3fbf9c8b
+
+Package: com.ps.ytuhd
+Section: Tweaks
+Installed-Size: 1144
+Maintainer: PoomSmart
+Architecture: iphoneos-arm64e
+Version: 2.4.0
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.libundirect (>= 1.1.6)
+Description: Unlocks 1440p and 2160p resolutions in iOS YouTube app.
+Name: YTUHD
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytuhd.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytuhd.json
+Filename: ./插件/YTUHD_2.4.0_iphoneos-arm64e.deb
+Size: 392016
+MD5sum: ca23abaaf1ff36d5905398cad6d9b7b2
+SHA1: fe33a7cee0b74632eb542095bdd1d62b99d61d69
+SHA256: 6e165269fdeaf8d6e1a718b651e8e68afbc5ceeac2f5b56daf448986c7e5ceac
+
+Package: com.ps.ytvideooverlay
+Section: Tweaks
+Installed-Size: 144
+Maintainer: PoomSmart
+Architecture: iphoneos-arm64e
+Version: 2.2.0
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Description: A helper tweak to add buttons on YouTube video overlay.
+Name: YTVideoOverlay
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytvideooverlay.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytvideooverlay.json
+Filename: ./插件/YTVideoOverlay_2.2.0_iphoneos-arm64e.deb
+Size: 13516
+MD5sum: a602731f9febd8d65f931f5101ef689e
+SHA1: 4230ffb47f8a1f670bfe097e47cb88dd69620420
+SHA256: 9b0b6c0950ab2a2acec0f80dab7de1f49f4a661ca7413b77ab44e987815e135c
+
+Package: com.ps.youpip
+Section: Tweaks
+Installed-Size: 212
+Maintainer: PoomSmart
+Architecture: iphoneos-arm64e
+Version: 1.12.13
+Replaces: com.spicat.youpip
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, com.ps.ytvideooverlay (>= 2.0.0), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.ps.forceinpicture (>= 1.0.1)
+Conflicts: com.spicat.youpip
+Description: Enables native PiP in iOS YouTube app.
+Name: YouPiP
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/youpip.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/youpip.json
+Filename: ./插件/YouPiP_1.12.13_iphoneos-arm64e.deb
+Size: 25008
+MD5sum: 64f7781c862ecdad8c42daa8abadd4e3
+SHA1: cbc81e40747918d6abee24c8a6bceba02894d7cc
+SHA256: 3fb3951ea595531646458048dccab63a7b098bd263a097565196e2f93cad597f
+
+Package: com.vita.yuki
+Priority: optional
+Section: Tweaks
+Installed-Size: 700
+Maintainer: vita
+Architecture: iphoneos-arm64e
+Version: 0.1-0
+Depends: firmware (>= 5.0), mobilesubstrate
+Description: 免费插件，随缘更新。
+Name: Yuki
+Homepage: https://github.com/wtrwx
+Author: vita
+Icon: https://Mieing.Github.io/icon/TikTok.png
+Filename: ./插件/Yuki_0.1-0_iphoneos-arm64e.deb
+Size: 131696
+MD5sum: 6761d23b7fea20d0515216f0fcc54c76
+SHA1: 97074be65d79edd93694b99433d9547c8739edc9
+SHA256: e010e4a400170dc1dd22e6dae0d6e5576bd2801f99ff6853f828e2739be6eb2c
+
+Package: com.exile90.icleanerpro
+Section: Utilities
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Replaces: org.altervista.exilecom.icleaner
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Pre-Depends: rootless-compat (>= 0.9)
+Conflicts: org.altervista.exilecom.icleaner
+Description: The first real iOS system cleanup and management utility
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
+Filename: ./插件/iCleaner Pro_7.10.0_iphoneos-arm64e.deb
+Size: 986536
+MD5sum: 98d1bb2b280197646163e0d73d23bf6c
+SHA1: 45c16fdc23f861420fe9f9183c4cdc70d93df76f
+SHA256: 9e9f8f1c3780307d54c6ea15750f99b67174b993e140bb02db8bdc290575ed92
+
+Package: xhs.x
+Section: Tweaks
+Installed-Size: 2592
+Maintainer: 𝙓
+Architecture: iphoneos-arm64e
+Version: 1.2.1
+Replaces: com.xx.xhshook
+Depends: mobilesubstrate (>= 0.9.5000)
+Pre-Depends: rootless-compat (>= 0.9)
+Conflicts: com.xx.xhshook
+Description: 自用
+Name: 小红薯
+Author: 𝙓
+Filename: ./插件/小红薯_1.2.1_iphoneos-arm64e.deb
+Size: 802732
+MD5sum: 8a34a322f794366cb9cb62fb77e210c5
+SHA1: 0dae1bf58f201e72de4db1e97fa3d0667a6e3b9b
+SHA256: 95834b1db94fd0eff4eca76a62c7b8aa3ac4c51ef3f24278fbb440277364086d
+
+Package: com.25mao.wcplugins.rootless
+Priority: optional
+Section: Rootless
+Maintainer: admin@25mao.com
+Architecture: iphoneos-arm64e
+Version: 0.1-6
+Depends: firmware (>= 5.0)
+Pre-Depends: rootless-compat (>= 0.9)
+Description: 插件管理-Rootless
+Name: 微信插件管理-Rootless
+Author: Mao
+Sponsor: admin@25mao.com
+Filename: ./插件/微信插件管理-Rootless_0.1-6_iphoneos-arm64e.deb
+Size: 14004
+MD5sum: 3c928b0f699941626aeb21c7a23855d4
+SHA1: c0153c0be71e463e09a8fa52c469befb6287e573
+SHA256: c3992984c1e8fd1d367b048796f23023bc9c815299ea81bbbe076b7ba821414e
+
 Package: aweme.x
 Section: Tweaks
 Installed-Size: 11908
@@ -16,3 +292,23 @@ Size: 7160524
 MD5sum: 0abb72048b9c9f91a22e286c7353715b
 SHA1: ac9c1d25f64bcccf21f1547c5642414e34f02ece
 SHA256: 1f1f91f930b6bda6d09f1ba7496da48ed306b47c3c7599d4a4b1c4026928dfa0
+
+Package: com
+Version: 1.0.4
+Section: Tweaks
+Priority: optional
+Architecture: iphoneos-arm64e
+Replaces: com
+Provides: com
+Conflicts: com
+Essential: no
+Maintainer: 秋名山
+Description: 自用
+Name: 高德图层
+Author: 秋名山
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./插件/高德图层-1.0.4-roothide.deb
+Size: 511754
+MD5sum: 4f693f3c3f4679b2eed45728f5540e6e
+SHA1: 18d34f06ac84d3e31852c9942795b44484af5616
+SHA256: db209ccdf77feaf269b0a5f4350604594c594690b8b2596b54770bafba9022e3
