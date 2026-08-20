@@ -16,11 +16,11 @@ Add it in a package manager:
 
 ## Add packages
 
-1. Put your `.deb` files in `debs/`.
+1. Put your `.deb` files in `插件/`.
 2. Rebuild the package indexes:
 
    ```sh
-   dpkg-scanpackages -m debs /dev/null > Packages
+   dpkg-scanpackages -m 插件 /dev/null > Packages
    gzip -n -c Packages > Packages.gz
    bzip2 -c Packages > Packages.bz2
    ```
